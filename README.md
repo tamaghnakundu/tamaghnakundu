@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tamaghna 👋
 
-<!--
-**tamaghnakundu/tamaghnakundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an undergraduate student interested in machine learning, artificial intelligence, and cybersecurity, focused on building practical systems and exploring real-world problems.
 
-Here are some ideas to get you started:
+## Research Interests
+- Machine Learning  
+- Artificial Intelligence  
+- AI for Cybersecurity  
+- Network Intrusion Detection  
+- Systems Security  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- Machine learning-based Intrusion Detection System (IDS)
+- Model comparison and performance optimization
+- Web security (PortSwigger, Burp Suite)
+
+## Skills
+- Python, C/C++, Java  
+- Machine Learning (scikit-learn, PyTorch)  
+- Data Analysis (NumPy, Pandas, Matplotlib)  
+- Linux, Git  
+- Basic Networking & Security Concepts  
